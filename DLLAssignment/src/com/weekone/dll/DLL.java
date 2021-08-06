@@ -103,6 +103,7 @@ public class DLL {
 			current = current.next;
 			count++;
 		}
+		
 		current.prev.next = newNode;
 		newNode.next = current;
 		newNode.prev = current.prev;
@@ -129,6 +130,7 @@ public class DLL {
 			Node temp = current.prev;
 			temp.next = current.next;
 			current.next.prev = temp;
+			
 			current.next = null;
 			current.prev = null;
 		}

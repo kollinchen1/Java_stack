@@ -31,12 +31,12 @@ public class Calculator {
 				operandOne = results;
 				twoCheck = false;
 				operationCheck = false;
-				System.out.println(results);
+//				System.out.println(results);
 				break;
 			case "*":
 				results = operandOne * operandTwo;
 				operandOne = results;
-				System.out.println(results);
+//				System.out.println(results);
 				twoCheck = false;
 				operationCheck = false;
 				break;

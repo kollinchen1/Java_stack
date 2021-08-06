@@ -19,7 +19,8 @@ public class CalTest {
 		cal.performOperation("+");
 		cal.performOperation(10);
 		cal.performOperation("=");
-		
+		//10.5+5.2*10/5.2+10/2+10
+		//
 		System.out.println(cal.getResults());
 	}
 

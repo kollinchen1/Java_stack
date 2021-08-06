@@ -1284,3 +1284,172 @@
 2021-08-04 20:44:21,567 [Worker-255: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-08-04 20:44:21,567 [Worker-255: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-08-04 20:44:21,567 [Worker-255: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kollin/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/strings/src/test/resources
+2021-08-04 21:21:14,988 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 21:21:14,988 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-04 21:21:14,989 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-04 21:21:14,997 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-04 21:21:14,999 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 21:21:14,999 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-04 21:21:14,999 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kollin/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/strings/src/test/resources
+2021-08-04 21:21:22,800 [Worker-259: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 21:21:22,800 [Worker-259: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-04 21:21:22,800 [Worker-259: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-04 21:21:22,812 [Worker-259: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-04 21:21:22,814 [Worker-259: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 21:21:22,814 [Worker-259: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-04 21:21:22,814 [Worker-259: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kollin/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/strings/src/test/resources
+2021-08-05 14:37:19,809 [Worker-296: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kollinchen.routing:routing:0.0.1-SNAPSHOT @ /Users/kollin/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/routing/pom.xml.
+2021-08-05 14:37:20,658 [Worker-296: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /routing/src/main/java
+2021-08-05 14:37:20,658 [Worker-296: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /routing/src/main/resources
+2021-08-05 14:37:20,662 [Worker-296: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /routing/src/main/resources
+2021-08-05 14:37:20,666 [Worker-296: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /routing/src/test/java
+2021-08-05 14:37:20,848 [Worker-296: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2021-08-05 14:37:20,850 [Worker-296: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-08-05 14:37:21,210 [Worker-296: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kollinchen.routing:routing:0.0.1-SNAPSHOT @ /Users/kollin/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/routing/pom.xml.
+2021-08-05 14:37:21,486 [Worker-296: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /routing/src/main/java
+2021-08-05 14:37:21,486 [Worker-296: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /routing/src/main/resources
+2021-08-05 14:37:21,487 [Worker-296: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /routing/src/main/resources
+2021-08-05 14:37:21,489 [Worker-296: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /routing/src/test/java
+2021-08-05 14:37:21,608 [Worker-296: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2021-08-05 14:37:22,161 [Worker-300: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 14:37:22,161 [Worker-300: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 14:37:22,174 [Worker-300: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-05 14:37:22,189 [Worker-300: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-05 14:37:22,191 [Worker-300: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 14:37:22,191 [Worker-300: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 14:37:22,191 [Worker-300: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kollin/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/routing/src/test/resources
+2021-08-05 14:40:39,536 [Worker-304: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 14:40:39,536 [Worker-304: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 14:40:39,539 [Worker-304: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-05 14:40:39,782 [Worker-304: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-05 14:40:39,784 [Worker-304: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 14:40:39,784 [Worker-304: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 14:40:39,784 [Worker-304: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kollin/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/routing/src/test/resources
+2021-08-05 14:40:50,019 [Worker-296: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kollinchen.strings:strings:0.0.1-SNAPSHOT @ /Users/kollin/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/strings/pom.xml.
+2021-08-05 14:40:50,139 [Worker-296: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 14:40:50,139 [Worker-296: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 14:40:50,139 [Worker-296: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-05 14:40:50,154 [Worker-296: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-05 14:40:50,157 [Worker-296: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 14:40:50,157 [Worker-296: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 14:40:50,157 [Worker-296: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kollin/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/strings/src/test/resources
+2021-08-05 14:40:50,660 [Worker-305: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kollinchen.strings:strings:0.0.1-SNAPSHOT @ /Users/kollin/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/strings/pom.xml.
+2021-08-05 14:40:51,275 [Worker-296: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 14:40:51,275 [Worker-296: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 14:40:51,275 [Worker-296: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-05 14:40:51,275 [Worker-296: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-05 14:40:51,276 [Worker-296: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 14:40:51,276 [Worker-296: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 14:40:51,276 [Worker-296: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kollin/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/strings/src/test/resources
+2021-08-05 14:41:17,740 [Worker-306: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 14:41:17,741 [Worker-306: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 14:41:17,741 [Worker-306: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-05 14:41:17,755 [Worker-306: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-05 14:41:17,758 [Worker-306: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 14:41:17,758 [Worker-306: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 14:41:17,758 [Worker-306: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kollin/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/routing/src/test/resources
+2021-08-05 14:41:18,776 [Worker-296: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 14:41:18,776 [Worker-296: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 14:41:18,777 [Worker-296: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-05 14:41:18,790 [Worker-296: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-05 14:41:18,791 [Worker-296: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 14:41:18,791 [Worker-296: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 14:41:18,791 [Worker-296: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kollin/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/routing/src/test/resources
+2021-08-05 14:43:36,967 [Worker-301: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 14:43:36,968 [Worker-301: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 14:43:36,968 [Worker-301: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-05 14:43:36,985 [Worker-301: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-05 14:43:36,987 [Worker-301: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 14:43:36,987 [Worker-301: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 14:43:36,987 [Worker-301: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kollin/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/routing/src/test/resources
+2021-08-05 14:49:39,810 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 14:49:39,811 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 14:49:39,811 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-05 14:49:39,863 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-05 14:49:39,867 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 14:49:39,867 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 14:49:39,867 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kollin/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/routing/src/test/resources
+2021-08-05 14:50:49,954 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 14:50:49,955 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 14:50:49,955 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-05 14:50:49,964 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-05 14:50:49,965 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 14:50:49,965 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 14:50:49,965 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kollin/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/routing/src/test/resources
+2021-08-05 14:51:40,843 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 14:51:40,843 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 14:51:40,844 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-05 14:51:40,860 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-05 14:51:40,862 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 14:51:40,862 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 14:51:40,862 [Worker-314: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kollin/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/routing/src/test/resources
+2021-08-05 14:55:38,606 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 14:55:38,606 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 14:55:38,607 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-05 14:55:38,619 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-05 14:55:38,620 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 14:55:38,620 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 14:55:38,620 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kollin/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/routing/src/test/resources
+2021-08-05 19:37:08,958 [Worker-359: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kollinchen.routing:routing:0.0.1-SNAPSHOT @ /Users/kollin/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/routing/pom.xml.
+2021-08-05 19:37:10,137 [Worker-360: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 19:37:10,137 [Worker-360: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 19:37:10,137 [Worker-360: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-05 19:37:10,200 [Worker-360: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-05 19:37:10,203 [Worker-360: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 19:37:10,203 [Worker-360: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 19:37:10,203 [Worker-360: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kollin/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/routing/src/test/resources
+2021-08-05 19:45:41,832 [Worker-361: Launching routing - RoutingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 19:45:41,832 [Worker-361: Launching routing - RoutingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 19:45:41,836 [Worker-361: Launching routing - RoutingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-05 19:45:41,860 [Worker-361: Launching routing - RoutingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-05 19:45:41,866 [Worker-361: Launching routing - RoutingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 19:45:41,866 [Worker-361: Launching routing - RoutingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 19:45:41,866 [Worker-361: Launching routing - RoutingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kollin/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/routing/src/test/resources
+2021-08-05 19:48:07,767 [Worker-365: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 19:48:07,768 [Worker-365: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 19:48:07,768 [Worker-365: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-05 19:48:07,841 [Worker-365: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-05 19:48:07,843 [Worker-365: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 19:48:07,843 [Worker-365: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 19:48:07,843 [Worker-365: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kollin/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/routing/src/test/resources
+2021-08-05 19:48:12,391 [Worker-371: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 19:48:12,391 [Worker-371: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 19:48:12,392 [Worker-371: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-05 19:48:12,403 [Worker-371: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-05 19:48:12,405 [Worker-371: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 19:48:12,405 [Worker-371: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 19:48:12,405 [Worker-371: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kollin/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/routing/src/test/resources
+2021-08-05 19:50:36,257 [Worker-363: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 19:50:36,258 [Worker-363: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 19:50:36,258 [Worker-363: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-05 19:50:36,282 [Worker-363: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-05 19:50:36,285 [Worker-363: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 19:50:36,285 [Worker-363: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 19:50:36,285 [Worker-363: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kollin/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/routing/src/test/resources
+2021-08-05 19:50:41,134 [Worker-372: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 19:50:41,134 [Worker-372: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 19:50:41,135 [Worker-372: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-05 19:50:41,160 [Worker-372: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-05 19:50:41,164 [Worker-372: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 19:50:41,165 [Worker-372: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 19:50:41,165 [Worker-372: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kollin/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/routing/src/test/resources
+2021-08-05 20:06:21,824 [Worker-375: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kollinchen.hellohuman:hellohuman:0.0.1-SNAPSHOT @ /Users/kollin/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/hellohuman/pom.xml.
+2021-08-05 20:06:22,251 [Worker-375: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hellohuman/src/main/java
+2021-08-05 20:06:22,251 [Worker-375: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hellohuman/src/main/resources
+2021-08-05 20:06:22,254 [Worker-375: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hellohuman/src/main/resources
+2021-08-05 20:06:22,258 [Worker-375: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hellohuman/src/test/java
+2021-08-05 20:06:22,376 [Worker-375: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2021-08-05 20:06:22,377 [Worker-375: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-08-05 20:06:22,680 [Worker-375: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kollinchen.hellohuman:hellohuman:0.0.1-SNAPSHOT @ /Users/kollin/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/hellohuman/pom.xml.
+2021-08-05 20:06:22,863 [Worker-375: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hellohuman/src/main/java
+2021-08-05 20:06:22,864 [Worker-375: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hellohuman/src/main/resources
+2021-08-05 20:06:22,864 [Worker-375: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hellohuman/src/main/resources
+2021-08-05 20:06:22,866 [Worker-375: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hellohuman/src/test/java
+2021-08-05 20:06:22,934 [Worker-375: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2021-08-05 20:06:23,220 [Worker-378: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 20:06:23,220 [Worker-378: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 20:06:23,221 [Worker-378: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-05 20:06:23,233 [Worker-378: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-05 20:06:23,234 [Worker-378: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-05 20:06:23,235 [Worker-378: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-05 20:06:23,235 [Worker-378: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kollin/Documents/workspace-spring-tool-suite-4-4.11.0.RELEASE/hellohuman/src/test/resources
