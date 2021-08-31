@@ -14,27 +14,27 @@
 		<h1>Your Gold:  <span style="width: 120px;" class="text-left border border-dark px-5"> <c:out value="${count}" /></span></h1>
 		<p><a href="/reset">Reset</a></p>
 		<div class="mt-5 d-flex justify-content-between">
-			<form class = "d-flex flex-column border border-dark py-4 px-5 text-center" method="POST" action="/process/farm">
+			<form class = "d-flex flex-column border border-dark py-4 px-5 text-center" action="/process/farm">
 				<h1>Farm</h1>
 				<p>(earns 10-20 gold)</p>
 				<button type="submit">Find Gold!</button>
 			</form>
-			<form class = "d-flex flex-column border border-dark py-4 px-5 text-center" method="POST" action="/process/cave">
+			<form class = "d-flex flex-column border border-dark py-4 px-5 text-center" action="/process/cave">
 				<h1>Cave</h1>
 				<p>(earns 5-10 gold)</p>
 				<button type="submit">Find Gold!</button>
 			</form>
-			<form class = "d-flex flex-column border border-dark py-4 px-5 text-center" method="POST" action="/process/house">
+			<form class = "d-flex flex-column border border-dark py-4 px-5 text-center" action="/process/house">
 				<h1>House</h1>
 				<p>(earns 2-5 gold)</p>
 				<button type="submit">Find Gold!</button>
 			</form>
-			<form class = "d-flex flex-column border border-dark py-4 px-5 text-center" method="POST" action="/process/casino">
+			<form class = "d-flex flex-column border border-dark py-4 px-5 text-center" action="/process/casino">
 				<h1>Casino</h1>
 				<p class="break-text">(earns/takes 0-50 gold)</p>
 				<button type="submit">Find Gold!</button>
 			</form>
-			<form class = "d-flex flex-column border border-dark py-4 px-5 text-center" method="POST" action="/process/spa">
+			<form class = "d-flex flex-column border border-dark py-4 px-5 text-center"  action="/process/spa">
 				<h1>Spa</h1>
 				<p class="break-text">(Loses 5-20 gold)</p>
 				<button type="submit">Lose Gold!</button>

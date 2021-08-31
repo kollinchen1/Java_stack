@@ -14,17 +14,17 @@
 		<h1>Your Gold:  <span style="width: 120px;" class="text-left border border-dark px-5"> <c:out value="${count}" /></span></h1>
 		<p><a href="/reset">Reset</a></p>
 		<div class="mt-5 d-flex justify-content-between">
-			<form class = "d-flex flex-column border border-dark py-4 px-5 text-center" method="POST" action="/process/dig">
+			<form class = "d-flex flex-column border border-dark py-4 px-5 text-center"  action="/process/dig">
 				<h1>Dig</h1>
 				<p>(earns 1 gold)</p>
 				<button type="submit">Find Gold!</button>
 			</form>
-			<form class = "d-flex flex-column border border-dark py-4 px-5 text-center" method="POST" action="/process/gamble">
+			<form class = "d-flex flex-column border border-dark py-4 px-5 text-center" action="/process/gamble">
 				<h1>Prison Gamble</h1>
 				<p>(earns/takes 20-100 gold)</p>
 				<button type="submit">Find Gold!</button>
 			</form>	
-			<form class = "d-flex flex-column border border-dark py-4 px-5 text-center" method="POST" action="/process/laundry">
+			<form class = "d-flex flex-column border border-dark py-4 px-5 text-center" action="/process/laundry">
 				<h1>Laundry</h1>
 				<p>(earns 1-3 gold)</p>
 				<button type="submit">Find Gold!</button>

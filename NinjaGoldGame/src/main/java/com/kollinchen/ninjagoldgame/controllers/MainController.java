@@ -8,8 +8,8 @@ import javax.servlet.http.HttpSession;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 import com.kollinchen.ninjagoldgame.services.Message;
@@ -21,8 +21,8 @@ public class MainController {
 	       "10th", "11th", "12th", "13th", "14th", "15th", "16th", "17th", "18th", "19th",
 	       "20th", "21st", "22nd", "23rd", "24th", "25th", "26th", "27th", "28th", "29th",
 	       "30th", "31st" };
-	ArrayList<Message> messages = new ArrayList<Message>();
-	int count = 0;
+//	ArrayList<Message> messages = new ArrayList<Message>();
+//	int count = 0;
 	Random random = new Random();
 	@RequestMapping("/")
 	public String reroute() {
@@ -30,37 +30,47 @@ public class MainController {
 	}
 	@RequestMapping("/Gold")
 	public String index(Model model,HttpSession session) {
-		session.setAttribute("count", count);
+		if(session.getAttribute("count")==null) {
+			session.setAttribute("count",0);
+		}
+		if(session.getAttribute("messages")==null) {
+			session.setAttribute("messages",new ArrayList<Message>());
+		}
+//		session.setAttribute("count", count);
 		model.addAttribute("count",session.getAttribute("count"));
 		model.addAttribute("messages", session.getAttribute("messages"));
 		return "gold.jsp";
 	}
 	@RequestMapping("/reset")
 	public String reset(Model model,HttpSession session) {
-		messages = new ArrayList<Message>();
-		count = 0;
-		session.setAttribute("count", count);
-		session.setAttribute("messages", messages);
+		session.setAttribute("count",0);
+		session.setAttribute("messages",new ArrayList<Message>());
+
+//		messages = new ArrayList<Message>();
+//		count = 0;
+//		session.setAttribute("count", count);
+//		session.setAttribute("messages", messages);
 		return "redirect:/Gold";
 	}
 	
 	@RequestMapping("/prison")
-	public String prison(HttpSession session) {
-		if(count<-60)
+	public String prison(HttpSession session, Model model) {
+		
+		if((int)session.getAttribute("count")<-60)
 		{
-			session.setAttribute("count", count);
-			session.setAttribute("messages", messages);
+			model.addAttribute("count",session.getAttribute("count"));
+			model.addAttribute("messages", session.getAttribute("messages"));
 			return "prison.jsp";
 		}
 		return "redirect:/Gold";
 	}
 	
-	@PostMapping("/process/{item}")
+	@GetMapping("/process/{item}")
 	public String process(
 			@PathVariable("item") String item,
 			HttpSession session
 	) {
-        
+        //generate an amount
         int temp = 0;
 		switch(item){
 			//(earns 10-20 gold)
@@ -95,6 +105,8 @@ public class MainController {
 				break;
 			//int number = random.nextInt(max - min) + min;
 		}
+		
+		int count = (int) session.getAttribute("count");
 		count+=temp;
 		
 		String currentDate = findCurrentDate();
@@ -104,7 +116,10 @@ public class MainController {
 			message+=".. Ouch";
 		}
 		message+=" ("+currentDate+")";
+		//so that i can change color by checking + or - 
 		Message newMes = new Message(message,temp);
+		//arraylist add the whole thing
+		ArrayList<Message> messages = (ArrayList<Message>) session.getAttribute("messages");
 		messages.add(newMes);
 		session.setAttribute("count", count);
 		session.setAttribute("messages", messages);
@@ -116,10 +131,13 @@ public class MainController {
 	//helper Method
 	public String findCurrentDate() {
 		Date current = new Date();
+		//find the day of month
 		SimpleDateFormat formatDayOfMonth  = new SimpleDateFormat("d");
 		int day = Integer.parseInt(formatDayOfMonth.format(current));
+		//from static array
 		String dayStr = suffixes[day];
 		System.out.print(dayStr);
+		//complete the string in required format
 		String currentDate = new SimpleDateFormat("MMMM '"+dayStr+"' yyyy, h:mm a ").format(current);
 		
 		return currentDate;

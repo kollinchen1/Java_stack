@@ -2,4 +2,25 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="com.kollinchen.ninjagoldgame.services.Message"/>
+    <fullyQualifiedTypeName name="com.kollinchen.mvc.models.Book"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.kollinchen.productsandcategories.models.Category"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.Email"/>
+    <fullyQualifiedTypeName name="javax.persistence.Transient"/>
+    <fullyQualifiedTypeName name="com.kollinchen.dojoandninja.models.Dojo"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.NotEmpty"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="com.kollinchen.eventsbelt.models.Event"/>
+    <fullyQualifiedTypeName name="com.kollinchen.eventsbelt.models.Message"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.NotNull"/>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="javax.persistence.Table"/>
+    <fullyQualifiedTypeName name="javax.persistence.Id"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.kollinchen.beltexam.models.UserCourse"/>
+    <fullyQualifiedTypeName name="com.kollinchen.beltexam.models.User"/>
+    <fullyQualifiedTypeName name="antlr.debug.Event"/>
 </qualifiedTypeNameHistroy>

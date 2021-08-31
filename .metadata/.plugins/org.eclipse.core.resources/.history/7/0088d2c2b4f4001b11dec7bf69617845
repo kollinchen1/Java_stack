@@ -1,5 +1,0 @@
-package com.weekone.phone;
-
-public interface Ringable {
-
-}
